@@ -208,9 +208,7 @@ Stream1_Struct_t:
 ```
 Serializer_Lib/
 ├── serializer.h      # Main library header with macros
-├── serializer.c      # Example/test implementation
-├── stream_def.h      # Structure definitions
-├── makefile          # Build configuration
+├── example.c      # Example/test implementation
 └── README.md         # This file
 ```
 
@@ -219,5 +217,6 @@ Serializer_Lib/
 This project is provided as-is for educational and development purposes.
 
 ## Contributing
+
 
 Feel free to submit issues and enhancement requests!
